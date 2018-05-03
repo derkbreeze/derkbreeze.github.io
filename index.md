@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Shuai Li's Homepage
 
-You can use the [editor on GitHub](https://github.com/derkbreeze/derkbreeze.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For now,I am a first year Ph.D student majoring Computer Science at Arizona State University, working on Computer Vision problems, I am supervised by Prof.Yezhou Yang. I also work closely with Prof Pingbo Tang in Construction Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before coming to USA, I graduated from Beijing Institute of Technology in March 2017, with a Master of Engineering Degree in Control Engineering, during my graduate study, I was fortunate to have worked with Dr Sun Li, Prof. Zhen Lei(CASIA NLPR). Even before  that, I obtained a Bachelor of Engineering Degree in Electrical Engineering in June 2014 from Southwest Jiaotong University,my undergraduate supervisor was Gexiang Zhang.
 
-### Markdown
+[Yezhou Yang](https://yezhouyang.engineering.asu.edu/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### News
 
-```markdown
-Syntax highlighted code block
+September 2017: Started a new journey in ASU!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/derkbreeze/derkbreeze.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
