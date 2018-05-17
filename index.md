@@ -8,17 +8,11 @@ Before coming to USA, I graduated from Beijing Institute of Technology in March 
 ### Education
 
 
-Ph.D. in Computer Science, 2017-present
+Ph.D. in Computer Science, 2017-present Arizona State University,Tempe.
 
-Arizona State University,Tempe.
+MS.Eng. in Control Engineering, 2014-2017 Beijing Institute of Technology, Beijing
 
-MS.Eng. in Control Engineering, 2014-2017
-
-Beijing Institute of Technology, Beijing
-
-B.Eng. in Electrical Engineering, 2010-2014
-
-Southwest Jiao Tong University, Chengdu
+B.Eng. in Electrical Engineering, 2010-2014 Southwest Jiao Tong University, Chengdu
 
 
 ### News
