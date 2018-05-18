@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to Shuai Li(李帅)'s homepage!
+title: Welcome to Shuai Li's homepage!
+description: A Computer Vision Lover
 
-avatar: https://github.com/derkbreeze/derkbreeze.github.io/blob/master/0.jpeg
+avatar: "./0.jpeg"
