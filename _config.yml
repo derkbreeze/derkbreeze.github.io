@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Welcome to Shuai Li's homepage!
 description: A Computer Vision Lover
 
-title-img: ../images/0.jpeg
+title-img: "images/0.jpeg"
