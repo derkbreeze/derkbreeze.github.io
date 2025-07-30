@@ -1,0 +1,8 @@
+@inproceedings{pallotta2025syncvp,
+  title={SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction},
+  author={Pallotta, Enrico and Azar, Sina Mokhtarzadeh and Li, Shuai and Zatsarynna, Olga and Gall, Juergen},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={13787--13797},
+  year={2025}
+}
+
