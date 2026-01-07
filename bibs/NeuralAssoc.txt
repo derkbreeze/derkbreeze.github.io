@@ -1,0 +1,6 @@
+@article{li2025learning,
+        title={Learning a Neural Association Network for Self-supervised Multi-Object Tracking},
+        author={Li, Shuai and Burke, Michael and Ramamoorthy, Subramanian and Gall, Juergen},
+        journal={British Machine Vision Conference},
+        year={2025}
+      }
