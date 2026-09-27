@@ -1,0 +1,9 @@
+@inproceedings{li2026learning,
+  title={Learning Probabilistic Embeddings for Unsupervised Action Segmentation},
+  author={Li, Shuai and Vu, Duc Manh and Gall, Juergen},
+  booktitle={European Conference on Computer Vision},
+  pages={432--450},
+  year={2026},
+  organization={Springer}
+}
+
